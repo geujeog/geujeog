@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi👋 I'm JiHyeong (aka.Geujeog)
+<br><br>
+<bold> :clock10: Project Timeline </bold> <br>
 
-<!--
-**geujeog/geujeog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|   |                     **Project**                    |      **Date**     |      **Team**     |
+|:-:|:--------------------------------------------------:|:-----------------:|:-----------------:|
+| 1 |                   SNS Web Market                   | 2020.09 ~ 2020.12 |      No Team      |
+| 2 | Secure Coding Learning Platform for Web Developers | 2021.03 ~ 2021.07 | Hacking developer |
+| 3 |      E-Message Immunity Security System(EISS)      | 2021.09 ~ 2021.12 |  GGABI (5 people) |
+| 4 |   E-Message Immunity Security System(EISS) Addon   | 2022.01 ~ 2021.03 |  GGABI (7 people) |
+| 5 |       IoT Abnormal Behavoir Detection System       | 2022.03 ~ 2022.05 |  ZIEN (5 people)  |
+| 6 |               CVE-Search Customizing               | 2022.05 ~ 2022.07 |      No Team      |
+| 7 |          Infrastructure Inspection System          |     2022.07 ~     |  ZIEN (3 people)  |
 
-Here are some ideas to get you started:
+<br>
+<bold> :pencil2: Language </bold> <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geujeog&layout=compact)](https://github.com/geujeog/github-readme-stats)
+<br>
+<!-- ![Geujeog's GitHub stats](https://github-readme-stats.vercel.app/api?username=geujeog&theme=vue&show_icons=true) -->
+<br>
