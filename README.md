@@ -1,5 +1,5 @@
 ### Hi👋 I'm JiHyeong (aka.Geujeog)
-<br><br>
+<br>
 <bold> :clock10: Project Timeline </bold> <br>
 
 |   |                     **Project**                    |      **Date**     |      **Team**     |
