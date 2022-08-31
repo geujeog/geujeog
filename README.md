@@ -15,7 +15,7 @@
 <br>
 <bold> :pencil2: Language </bold> <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geujeog&layout=compact)](https://github.com/geujeog/github-readme-stats)
-<br>
 ![Geujeog's GitHub stats](https://github-readme-stats.vercel.app/api?username=geujeog&theme=vue&show_icons=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geujeog&layout=compact)](https://github.com/geujeog/github-readme-stats)
 <br>
